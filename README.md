@@ -1,2 +1,2 @@
 # recriando-pagina-inicial-instagram
-Desafio de Projeto CSS com Flexbox
+Desafio de Projeto da Dio CSS com Flexbox
